@@ -46,13 +46,14 @@ Send /me To Know Your Current Plan Details"""
     REPLY_TO_DOC_FOR_SCSS = "<b>Reply to a Telegram Media To Get Screenshots.\n@Z_Bots</b>"
     SOURCE = """<b>Hello!,</b>
 
-<b>○ My Name : <i>TeleRoid AnyDLBot</i></b>
+<b>○ My Name : <i>Z Bots AnyDLBot</i></b>
 <b>○ Creator : <a href='https://telegram.dog/Kirodewal'>This Person</a></b>
+<b>○ Editor : <a href='https://t.me/space4aysn'>This Person</a></b>
 <b>○ Credits : Everyone In This Journey</b>
 <b>○ Language : Python 3.9</b>
 <b>○ Library : Pyrogram Asyncio</b>
 <b>○ Cloned From : AnyDLBot [Spechide]</b>
-<b>○ Source Code :  <a href="https://github.com/PredatorHackerzZ/AnyDLBot-2">𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲</a></b>
+<b>○ Source Code :  <a href="https://t.me/Z_Bots">𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲</a></b>
 <b>○ Server : <a href='https.heroku.com'>Heroku</a></b>
 <b>○ Build Status : Beta v1</b>"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Reply to a Telegram Media To /rename With Custom Thumbnail Support.Or Ask In Support Group.</b>"
